@@ -1,6 +1,6 @@
 {
   "name": "greengrass-core-sdk",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mstfldmr/aws-greengrass-core-sdk.git"
+    "url": "git+https://github.com/mstfldmr/greengrass-core-sdk.git"
   },
   "keywords": [
     "aws",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mstfldmr/aws-greengrass-core-sdk/issues"
+    "url": "https://github.com/mstfldmr/greengrass-core-sdk/issues"
   },
-  "homepage": "https://github.com/mstfldmr/aws-greengrass-core-sdk#readme"
+  "homepage": "https://github.com/mstfldmr/greengrass-core-sdk#readme"
 }
