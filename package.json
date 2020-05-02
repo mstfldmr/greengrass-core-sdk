@@ -1,24 +1,17 @@
 {
-  "name": "greengrass-core-sdk",
-  "version": "1.5.0",
-  "description": "",
+  "name": "aws-greengrass-core-sdk",
+  "version": "1.6.1",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "cbor": "5.0.1"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Amazon Web Services",
+    "url": "https://aws.amazon.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mstfldmr/greengrass-core-sdk.git"
-  },
-  "keywords": [
-    "aws",
-    "greengrass",
-    "iot"
-  ],
-  "author": "",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/mstfldmr/greengrass-core-sdk/issues"
-  },
-  "homepage": "https://github.com/mstfldmr/greengrass-core-sdk#readme"
+    "url": "git://github.com/aws/aws-greengrass-core-sdk-js"
+  }
 }
